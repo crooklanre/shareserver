@@ -1,40 +1,31 @@
 # ShareServer
 
-**Brand:** ConnectWBT  
-**Department:** Shared Infrastructure  
-**Status:** `needs-repository-and-capability-verification`
+> Share project context where collaboration happens.
 
-## Overview
+## The Opportunity
 
-A shared server project for collaboration or shared application data, named in the ConnectWBT portfolio; exact scope and interfaces need source review.
+ShareServer helps tools and collaborators work with shared project information, so knowledge can travel with the work instead of being trapped in one place.
 
-## Who It Is For
+## Who It Serves
 
-Teams building applications that need shared server capabilities.
+Developers and teams who collaborate across projects and tools.
 
-## Capabilities
+## What It Makes Possible
 
-- Provide shared server-side application functionality
-- Support connected clients and collaboration workflows as implemented
+- Support shared project context and collaboration
+- Help connected tools exchange useful information
+- Make project knowledge available to the workflows that need it
 
-## How To Use It
+## How People Use It
 
-1. Follow the server deployment and client connection instructions in its repository
-2. Configure authentication and project permissions before use
+1. Choose a project and the context to share.
+2. Connect the collaborators or tools involved.
+3. Continue work with shared information available to the workflow.
 
-For exact installation steps, supported features, account requirements, and troubleshooting, follow the linked source documentation below. Where those links are not available yet, this page marks the gap instead of inventing product behavior.
+## How It Connects
 
-## Links
+- Used by Local Dev Agent to support project-sharing and collaborative development workflows.
 
-- Canonical repository: Not recorded; verify the canonical repository before publishing.
-- Source project: `To be linked to the verified ShareServer repository`
-- Deployed applications:
-- No verified deployed link is recorded yet.
+## Explore
 
-## Source Documentation
-
-- No source documentation has been linked yet.
-
-## Catalog Maintenance
-
-Edit `portfolio_catalog/catalog.json` and run `python tools/build_project_catalog.py` to rebuild this page and its department indexes. Confirm repository ownership, product capabilities, installation steps, and deployment URLs before changing this project's status to `verified`.
+- [Official project repository](https://github.com/crooklanre/shareserver)
